@@ -1,2 +1,3 @@
 # get_next_line
-get_next_line project for 42cursus
+Third project for 42cursus.
+This is a recreation of a standard C library function "getline()". Runs only on macOS and linux systems.
